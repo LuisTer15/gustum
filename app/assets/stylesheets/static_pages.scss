@@ -1,0 +1,21 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#nav {
+  background-color: #2d0853;
+}
+
+#head {
+  padding-top: 150px;
+  background-color: #2d0853;
+  /*background-image: url(<%= asset_path 'Background.jpg' %>);*/
+}
+
+#brand_name {
+  font-family: 'Satisfy', cursive;
+}
+
+.b-radius-50 {
+  border-radius: 50px;
+}
